@@ -27,8 +27,8 @@ Một dự án web giao hàng đồ ăn, lấy cảm hứng từ các nền tả
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/food-delivery-app.git
-cd food-delivery-app
+git clone https://github.com/NeeHoang/building-food-ordering-website.git
+cd building-food-ordering-website.git
 ```
 
 ### 2. Cài Đặt Backend
@@ -72,8 +72,8 @@ npm run dev
 
 ## 👨‍💻 Tác Giả
 
-- Tên: Hoàng Nguyên Giáp,Lê Việt Hoàng.
-- Email: hoangnguyengiap04@gmail.com
+- Tên: Nguyễn Huy Hoàng, Lê Việt Hoàng.
+- Email: leviethoang130204@gmail.com
 
 ---
 
